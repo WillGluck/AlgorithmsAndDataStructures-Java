@@ -1,2 +1,2 @@
-# HeapImplementation
-Just a simple heap implementation in Java.
+# AlgorithmsAndDataStructures-Javai
+Some algorithms and data structures implementations with Java
