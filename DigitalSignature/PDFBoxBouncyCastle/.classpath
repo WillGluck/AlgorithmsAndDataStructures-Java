@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/bcmail-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="libs/bcpkix-jdk15on-1.54.jar"/>
+	<classpathentry kind="lib" path="libs/bcprov-ext-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="libs/pdfbox-2.0.7.jar" sourcepath="D:/Users/TECBMWMG/.m2/repository/org/apache/pdfbox/pdfbox/2.0.7/pdfbox-2.0.7-sources.jar"/>
+	<classpathentry kind="lib" path="libs/org-apache-commons-logging.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
